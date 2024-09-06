@@ -1,5 +1,5 @@
 # airport_data
-[en] : This project involves analyzing and visualizing airline satisfaction scores to help improve services. The dataset contains various features related to passenger experiences, such as seat comfort, cabin staff service, and inflight entertainment. The analysis includes visualizations, correlation studies, and a predictive model to assess and forecast satisfaction levels.
+[EN] : This project involves analyzing and visualizing airline satisfaction scores to help improve services. The dataset contains various features related to passenger experiences, such as seat comfort, cabin staff service, and inflight entertainment. The analysis includes visualizations, correlation studies, and a predictive model to assess and forecast satisfaction levels.
 
 **Features Included**
 
@@ -11,7 +11,7 @@
 - Ground Service
 - Wifi & Connectivity
 
-## Analysis and Visualizations
+**Analysis and Visualizations**
 
 1. **Distribution of Scores by Airlines and Feature**:
    - A boxplot is created to show the distribution of scores for each feature across different airlines.
@@ -26,7 +26,7 @@
    - A Random Forest Regressor is used to predict 'Value For Money' based on other features. The model's performance is evaluated using Mean Squared Error.
 
 
-Project Objectives: 
+**Project Objectives:**
 
 - Visualize the distribution of satisfaction scores and feature correlations.
 - Analyze the average scores of different services.
@@ -44,7 +44,7 @@ Project Objectives:
 - Service au Sol
 - Wifi & Connectivité
 
-## Analyse et Visualisations
+**Analyse et Visualisations**
 
 1. **Distribution des Scores par Compagnie Aérienne et Caractéristique**:
    - Un boxplot est créé pour montrer la distribution des scores pour chaque caractéristique à travers différentes compagnies aériennes.
